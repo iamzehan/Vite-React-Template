@@ -8,29 +8,35 @@
 5. Comes with [Material UI](https://mui.com/material-ui/)
 
 ### 1. Clone this repository
-```shell
+```bash
 git clone https://github.com/iamzehan/Vite-React-Template.git
 ```
 *Important: Remove the origin*
-```shell
+```bash
 git remote rm origin
 ```
 ### 2. Install all packages
 📁where the package.json resides, run -
-```shell 
+```bash 
 npm install
 ```
 
 ### 3. Run the development server
 
-```shell
+```bash
 npm run dev
 ```
 
 ### 4. Run the build
 
-```shell
+```bash
 npm run build
+```
+
+### 5. Run the test
+
+```bash
+npm run test
 ```
 
 #### Good to know the following
