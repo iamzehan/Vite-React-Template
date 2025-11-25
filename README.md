@@ -8,10 +8,16 @@
 5. Comes with [Material UI](https://mui.com/material-ui/)
 
 ### 1. Clone this repository
-
-### 2. Install all packages
 ```shell
-#📁where the package.json resides, run - 
+git clone https://github.com/iamzehan/Vite-React-Template.git
+```
+*Important: Remove the origin*
+```shell
+git remote rm origin
+```
+### 2. Install all packages
+📁where the package.json resides, run -
+```shell 
 npm install
 ```
 
@@ -35,8 +41,9 @@ npm run build
 - `📁./index.html` is the main html file that has a `div#root` container. `🗒️./src/main.tsx` uses it to wrap all components that reside within our `🗒️./src/app.tsx`, `<App/>` component.
 
 --- 
+
+<h3 align="center">Technologies</h3>
 <p align="center">
-<h4>Technologies: </h4>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
