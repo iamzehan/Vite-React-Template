@@ -38,7 +38,7 @@ npm run build
 - `📁./.vscode` contains workspace settings for tailwindcss intellisense.
 - `📁./src` contains all the project code.
 - `📁./src/index.css` is the main css file
-- `📁./index.html` is the main html file that has a `div#root` container. `🗒️./src/main.tsx` uses it to wrap all components that reside within our `🗒️./src/app.tsx`, `<App/>` component.
+- `📁./index.html` is the main html file that has a `div#root` container. `🗒️./src/main.tsx` uses it to wrap all components that reside within our `🗒️./src/App.tsx`, `<App/>` component.
 
 --- 
 
